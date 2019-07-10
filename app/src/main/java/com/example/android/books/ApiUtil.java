@@ -23,7 +23,7 @@ public class ApiUtil {
     public static final String BASE_API_URL = "https://www.googleapis.com/books/v1/volumes";
     public static final String QUERY_PARAMETER_KEY = "q";
     public static final String KEY = "key";
-    public static final String API_KEY ="AIzaSyBhdKlLV3V6bu_cfctjKUw1VuBJ7-BhwAA";
+    public static final String API_KEY ="";
 
     public static URL buildURL(String title) {
         // changing part of URL inserted here
